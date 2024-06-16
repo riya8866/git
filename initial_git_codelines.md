@@ -15,8 +15,8 @@ ssh key paraphase:riya8866<br>
 <b>whoaa all your files are commited</b>
 
 
-<b>CLONE REPO</b>
-$ git clone [path-to-repository-to-clone]<br>
+<b>CLONE REPO
+$ git clone [path-to-repository-to-clone]</b><br>
 NOTE:<br>
 This command:<br>
 <br>
