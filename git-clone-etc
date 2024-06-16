@@ -20,3 +20,24 @@ the one we cloned with the git clone command<br>
 It tells you what is happening inside git and git is understanding of our commands.<br>
 run this command after every command.<br>
 It improves your understanding of git and you will know your errors and which command to run next <br>
+It tell us about new files that have been created in the Working Directory that Git hasn't started tracking, yet<br>
+files that Git is tracking that have been modified<br>
+<br>
+<br>
+<b>git log</b><br>
+show info about all the commits till date<br>
+<b>git show</b><br>
+show info about current commit<br>
+<br>
+<b>Navigating The Log</b>
+<br>
+to scroll down, press<br>
+j or ↓ to move down one line at a time<br>
+d to move by half the page screen<br>
+f to move by a whole page screen<br>
+to scroll up, press<br>
+k or ↑ to move up one line at a time<br>
+u to move by half the page screen<br>
+b to move by a whole page screen<br>
+press q to quit out of the log (returns to the regular command prompt)<br>
+<br>
