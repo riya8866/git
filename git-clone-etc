@@ -1,0 +1,22 @@
+<b>CLONE REPO
+$ git clone [path-to-repository-to-clone]</b><br>
+NOTE:<br>
+This command:<br>
+<br>
+takes the path to an existing repository<br>
+by default will create a directory with the same name as the repository that's being cloned<br>
+can be given a second argument that will be used as the name of the directory<br>
+will create the new repository inside of the current working directory<br>
+<br>
+At this point, we have two Git repositories:<br>
+<br>
+the empty one that we created with the git init command<br>
+the one we cloned with the git clone command<br>
+
+<br>
+
+<b>USE: git status</b>
+<br>
+It tells you what is happening inside git and git is understanding of our commands.<br>
+run this command after every command.<br>
+It improves your understanding of git and you will know your errors and which command to run next <br>
