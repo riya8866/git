@@ -26,6 +26,12 @@ files that Git is tracking that have been modified<br>
 <br>
 <b>git log</b><br>
 show info about all the commits till date<br>
+By default, this command displays:<br>
+<br>
++ the SHA<br>
++ the author<br>
++ the date<br>
++ and the message<br>
 <b>git show</b><br>
 show info about current commit<br>
 <br>
