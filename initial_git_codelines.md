@@ -15,17 +15,3 @@ ssh key paraphase:riya8866<br>
 <b>whoaa all your files are commited</b>
 
 
-<b>CLONE REPO
-$ git clone [path-to-repository-to-clone]</b><br>
-NOTE:<br>
-This command:<br>
-<br>
-takes the path to an existing repository<br>
-by default will create a directory with the same name as the repository that's being cloned<br>
-can be given a second argument that will be used as the name of the directory<br>
-will create the new repository inside of the current working directory<br>
-<br>
-At this point, we have two Git repositories:<br>
-<br>
-the empty one that we created with the git init command<br>
-the one we cloned with the git clone command<br>
