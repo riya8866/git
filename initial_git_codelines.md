@@ -13,3 +13,7 @@ ssh key paraphase:riya8866<br>
 <br>
 10.git push -u origin main<br>
 <b>whoaa all your files are commited</b>
+
+
+<b>CLONE REPO</b>
+$ git clone [path-to-repository-to-clone]
