@@ -49,16 +49,14 @@ to scroll down, press<br>
 <br>
 <br>
 <b>$ git log --oneline</b><br>
-
-<br>
-<b>$ git log --stat</b><br>
 This command:<br>
-<br>
-+ displays the file(s) that have been modified<br>
-+ displays the number of lines that have been added/removed<br>
-+ displays a summary line with the total number of modified files and lines that have been added/removed<br>
-This command:<br>
-<br>
 + lists one commit per line<br>
 + shows the first 7 characters of the commit's SHA<br>
 + shows the commit's message<br>
+<br>
+
+<b>$ git log --stat</b><br>
+This command:<br>
++ displays the file(s) that have been modified<br>
++ displays the number of lines that have been added/removed<br>
++ displays a summary line with the total number of modified files and lines that have been added/removed<br>
