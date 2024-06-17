@@ -38,12 +38,19 @@ show info about current commit<br>
 <b>Navigating The Log</b>
 <br>
 to scroll down, press<br>
-j or ↓ to move down one line at a time<br>
-d to move by half the page screen<br>
-f to move by a whole page screen<br>
-to scroll up, press<br>
-k or ↑ to move up one line at a time<br>
-u to move by half the page screen<br>
-b to move by a whole page screen<br>
-press q to quit out of the log (returns to the regular command prompt)<br>
++ j or ↓ to move down one line at a time<br>
++ d to move by half the page screen<br>
++ f to move by a whole page screen<br>
++ to scroll up, press<br>
++ k or ↑ to move up one line at a time<br>
++ u to move by half the page screen<br>
++ b to move by a whole page screen<br>
++ press q to quit out of the log (returns to the regular command prompt)<br>
 <br>
+<br>
+<b>$ git log --oneline</b><br>
+This command:<br>
+<br>
++ lists one commit per line<br>
++ shows the first 7 characters of the commit's SHA<br>
++ shows the commit's message<br>
