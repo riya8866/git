@@ -34,6 +34,10 @@ By default, this command displays:<br>
 + and the message<br>
 <b>git show</b><br>
 show info about current commit<br>
+
++ --stat - to show the how many files were changed and the number of lines that were added/<br>
++ -p or --patch - this the default, but if --stat is used, the patch won't display, so pass -p to add it again<br>
++ -w - to ignore changes to whitespace<br>
 <br>
 <b>Navigating The Log</b>
 <br>
@@ -60,3 +64,10 @@ This command:<br>
 + displays the file(s) that have been modified<br>
 + displays the number of lines that have been added/removed<br>
 + displays a summary line with the total number of modified files and lines that have been added/removed<br>
+<br>
+<b>$ git log -p</b><br>
+This command adds the following to the default output:
+<br>
++ displays the files that have been modified<br>
++ displays the location of the lines that have been added/removed<br>
++ displays the actual changes that have been made<br>
